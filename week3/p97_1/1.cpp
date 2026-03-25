@@ -7,7 +7,7 @@ int main()
     {
         for(int j = 1; j <= i; j++)
         {
-            std::cout << j;
+            std::cout << j << " ";
         }
         std::cout << "\n";
     }
@@ -18,7 +18,7 @@ int main()
     {
         for(int j = 5; j >= i; j--)
         {
-            std::cout << j;
+            std::cout << j << " ";
         }
         std::cout << "\n";
     }
